@@ -1,0 +1,32 @@
+.speech
+{
+    color:black;
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.direction
+{
+    background-color: dimgray;
+    color: black;
+    font-size:small;
+    font-family: 'Courier New', Courier, monospace;
+}
+.direction:hover
+{
+    color: blue;
+    background-color: cyan;
+}
+.name {
+    color: green;
+    font-size:medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.MARY {
+    color: darkmagenta;
+}
+.MORGAN {
+    color:brown;
+}
+.AUNT_CANDACE {
+    color:cornflowerblue;
+}
