@@ -29,3 +29,27 @@
 .AUNT_CANDACE {
     color:cornflowerblue;
 }
+
+table {
+    border-color: black;
+    width: 50%;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+th {
+    border: 1px solid;
+    border-radius: 5px;
+    border-color:darkblue;
+    color: white;
+    height: 50px;
+    background-color:coral;
+}
+td {
+    border: 1px solid;
+    border-radius: 5px;
+    border-color: coral;
+    height: 30px;
+}
+
+tr:hover {background-color:dodgerblue;}
