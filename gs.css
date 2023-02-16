@@ -53,3 +53,23 @@ td {
 }
 
 tr:hover {background-color:dodgerblue;}
+
+.MARY:hover{
+    font-size: medium;
+    color: palevioletred;
+    text-shadow: 0 0 10px palevioletred;
+    border-style: dashed;
+    border-radius: 5px;
+}
+.MORGAN:hover {
+    font-size: medium;
+    color: orange;
+    text-shadow: 0 0 10px orange;
+    border-style: dashed;
+    border-radius: 5px;}
+.AUNT_CANDACE:hover {
+    font-size: medium;
+    color: cornflowerblue;
+    text-shadow: 0 0 10px cornflowerblue;
+    border-style: dashed;
+    border-radius: 5px;}
